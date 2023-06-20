@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenjh2002/软件实践/cmake_pratice/cmake_ex2/src/calc.c
+
+/home/chenjh2002/软件实践/cmake_pratice/cmake_ex2/src/calc.h
+
+/home/chenjh2002/软件实践/cmake_pratice/cmake_ex2/src/main.c
+stdio.h
+-
+calc.h
+/home/chenjh2002/软件实践/cmake_pratice/cmake_ex2/src/calc.h
+

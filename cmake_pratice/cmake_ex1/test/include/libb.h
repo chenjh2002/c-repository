@@ -1,0 +1,1 @@
+void b_print(char* string);

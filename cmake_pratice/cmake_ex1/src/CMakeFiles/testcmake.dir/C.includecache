@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenjh2002/软件实践/cmake_practice/include/liba.h
+
+/home/chenjh2002/软件实践/cmake_practice/include/libb.h
+
+/home/chenjh2002/软件实践/cmake_practice/src/test.c
+../include/liba.h
+/home/chenjh2002/软件实践/cmake_practice/include/liba.h
+../include/libb.h
+/home/chenjh2002/软件实践/cmake_practice/include/libb.h
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+

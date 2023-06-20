@@ -1,0 +1,1 @@
+/home/chenjh2002/软件实践/rust_pratice/package-pratice-project/target/debug/package-pratice-project: /home/chenjh2002/软件实践/rust_pratice/package-pratice-project/src/garden/vegetables.rs /home/chenjh2002/软件实践/rust_pratice/package-pratice-project/src/garden.rs /home/chenjh2002/软件实践/rust_pratice/package-pratice-project/src/main.rs
